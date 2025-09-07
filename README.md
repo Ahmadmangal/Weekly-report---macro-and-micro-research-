@@ -1,6 +1,6 @@
 ---
-title: "Daily Market Research — Sep 5, 2025"
-date: 2025-09-05
+title: "weekly Market Research — Sep 5, 2025"
+date: 2025-09-07
 uploaded: 2025-09-07
 researcher: "Muhammad Ahmad"
 markets: ["SPX","NDX","DJIA","US10Y","Gold","Oil"]
@@ -8,7 +8,7 @@ tags: ["NFP","labor","Fed","yields","equities","commodities"]
 summary: "NFP shock: +22k vs ~75k forecast; yields drop, gold rallies, equities volatile; markets price Fed easing."
 ---
 # Weekly-report---macro-and-micro-research-Sep 5, 2025
-*Uploaded Sep 6 PKT — researcher: Muhammad Ahmad*
+*Uploaded Sep 7 PKT — researcher: Muhammad Ahmad*
 
 ## Macro Focus  
 - **US Nonfarm Payrolls (Aug):** Jobs grew **22k vs ~75k forecast**, with unemployment rising to **4.3%** → weakest print in months.  
