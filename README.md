@@ -1,4 +1,3 @@
-# Weekly-report---macro-and-micro-research-
 ---
 title: "Daily Market Research — Sep 5, 2025"
 date: 2025-09-05
@@ -8,7 +7,7 @@ markets: ["SPX","NDX","DJIA","US10Y","Gold","Oil"]
 tags: ["NFP","labor","Fed","yields","equities","commodities"]
 summary: "NFP shock: +22k vs ~75k forecast; yields drop, gold rallies, equities volatile; markets price Fed easing."
 ---
-# Daily Market Research — Sep 5, 2025  
+# Weekly-report---macro-and-micro-research-Sep 5, 2025
 *Uploaded Sep 6 PKT — researcher: Muhammad Ahmad*
 
 ## Macro Focus  
