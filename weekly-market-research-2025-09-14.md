@@ -19,3 +19,4 @@ summary: "Markets were volatile with Fed cut bets strengthening and ECB deliveri
 - **Sentiment:** Fed survey showed record-low worker confidence in finding new jobs, signaling economic slowdown fears.  
 
  *Overall: Dovish central banks, weak sentiment, and sector divergences drove markets. Gold outperformed; oil lagged; tech saw rotation with Nvidia strong, Apple weak.*
+ *Note: This report is based on my independent market research. Formatting and language refinement are assisted by digital tools for clarity.*
