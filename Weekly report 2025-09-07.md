@@ -46,4 +46,7 @@ The labor shock re-centered the market narrative from “tight labor → sticky 
 ## Sources (read before you commit)
 - Reuters — US jobs report & market reaction.   
 - Reuters — markets wrapup & gold reaction.   
-- Reuters / BofA coverage on Fed reaction and cut expectations. 11
+- Reuters / BofA coverage on Fed reaction and cut expectations.
+
+##  *Note:
+- This report is based on my independent market research. Formatting and language refinement are assisted by digital tools for clarity.*
